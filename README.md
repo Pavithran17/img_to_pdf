@@ -7,6 +7,6 @@ pip install img2pdf
 
 # How to run the script
 ## Using Terminal
--Add the image in the JPG format with name as 'input' in this folder.
--Run converter_terminal.py script
--Output PDF file will be generated in this folder
+- Add the image in the JPG format with name as 'input' in this folder.
+- Run converter_terminal.py script
+- Output PDF file will be generated in this folder
