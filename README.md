@@ -1,7 +1,7 @@
 # img_to_pdf
 Converts your image file to pdf format
 
-##Requirements
+## Requirements
 The img2pdf is an external Python module which enables you to convert a JPG image into a PDF.
 pip install img2pdf
 
